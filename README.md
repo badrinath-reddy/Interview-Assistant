@@ -24,13 +24,18 @@ This project will help a student to guide them to enhance their interview skills
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Project Communication Channels
-Gitter - [https://gitter.im/dsciitpatna/Interview-Assistant](https://gitter.im/dsciitpatna/Interview-Assistant)
+Discord - [https://discord.gg/YFMd3CW](https://discord.gg/YFMd3CW)
 
 ## Authors
-* **Anubhav Jangra** - Project Lead
-* **Piyush Tiwari** - Mentor
-* **Rahul Grover** - Mentor
-* **Shreyas Gedkar** - Mentor
+* **[Anubhav Jangra](https://github.com/love-san)** - Project Lead
+* **[Piyush Tiwary](https://github.com/aquarius31)** - Mentor
+* **[Badrinath Reddy](https://github.com/badrinath-reddy)** - Mentor
+
+## Research Paper Used:-
+http://cs229.stanford.edu/proj2017/final-reports/5243420.pdf
+
+## Dataset Used
+https://www.kaggle.com/ashishpatel26/facial-expression-recognitionferchallenge#fer2013.tar.gz
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
